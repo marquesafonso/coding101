@@ -12,7 +12,7 @@ You will need to:
 3. Verify the installation by running "python" in the terminal. Tip: you may need to add python to the environment variables for it to be recognized by your computer. See [this](https://realpython.com/add-python-to-path/).
 4. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 5. [Create a Github account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github)
-6. [Create SSH key](https://www.howtogeek.com/762863/how-to-generate-ssh-keys-in-windows-10-and-windows-11/)
+6. [Create SSH key](https://www.digitalocean.com/community/tutorials/how-to-create-ssh-keys-with-openssh-on-macos-or-linux)
 7. [Add SSH key to Github Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 8. Clone this repository to your computer by running
     ```
