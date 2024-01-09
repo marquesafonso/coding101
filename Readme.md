@@ -10,7 +10,7 @@ You will need to:
 1. [Install an IDE - VS Code](https://code.visualstudio.com/download)
 2. [Install Python](https://www.python.org/downloads/release/python-3121/)
 3. Verify the installation by running "python" in the terminal. Tip: you may need to add python to the environment variables for it to be recognized by your computer. See [this](https://realpython.com/add-python-to-path/).
-4. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+4. [Install Git](https://github.com/git-guides/install-git)
 5. [Create a Github account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github)
 6. [Create SSH key](https://www.digitalocean.com/community/tutorials/how-to-create-ssh-keys-with-openssh-on-macos-or-linux)
 7. [Add SSH key to Github Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
