@@ -2,11 +2,8 @@
 
 A repository for introductory concepts for coding in python using notebooks.
 
-## Body Mass Index (BMI) exercise
+## Installation and Set up
 
-In this first exercise you will learn the basics of reading an excel file and working with the *pandas* library to analyse a dataset containing records of people's gender, height, weight to produce their BMI.
-
-You will need to:
 1. [Install an IDE - VS Code](https://code.visualstudio.com/download)
 2. [Install Python](https://www.python.org/downloads/release/python-3121/)
 3. Verify the installation by running "python" in the terminal. Tip: you may need to add python to the environment variables for it to be recognized by your computer. See [this](https://realpython.com/add-python-to-path/).
@@ -33,8 +30,12 @@ You will need to:
 
 A lot of steps, I know... But this will ensure your projects are battle-proof. Also you will be able to download many projects from other from github to start your journey.
 
+## Body Mass Index (BMI) exercise
+
+In this first exercise you will learn the basics of reading an excel file and working with the *pandas* library to analyse a dataset containing records of people's gender, height, weight to produce their BMI.
+
 Now:
 1. open your editor (VS Code if you followed my tips).
 2. Open the **body_mass.ipynb** notebook
-3. Make sure to go to the top right of the notebook > **Select Kernel** > Choose your environment (This is where the necessary packages are installed)
-4. Then just follow allong the exercise! You can run the code cells using the **Execute cell** button on the left of each code block. Feel free to experiment with the code as you go!
+3. Make sure to go to the top right of the notebook > **Select Kernel** > Choose your environment (This is where the necessary packages are installed - it should have bmi in the name )
+4. Then just follow along the exercise! You can run the code cells using the **Execute cell** button on the left of each code block. Feel free to experiment with the code as you go!
